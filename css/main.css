@@ -1,0 +1,62 @@
+
+body {
+    background: black;
+    color: white;
+    font-family: Courier New, Courier, monospace;
+    font-size: 12pt;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 14pt;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+#container {
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #afafaf
+}
+
+a:visited {
+    color: #afafaf
+}
+
+a:hover {
+    color: cyan;
+}
+
+#title {
+    float: left;
+    position: relative;
+    font-size: 28pt;
+    left: 280px;
+    top: 100px;
+}
+
+#links {
+    float: left;
+    position: relative;
+    top: 320px;
+    left: 40px;
+
+}
+
+.linkedin-link {
+    width: 38px;
+}
+
+.github-link {
+    width: 48px;
+}
+
+#background {
+    width: 700px;
+    margin: 0 auto;
+}
